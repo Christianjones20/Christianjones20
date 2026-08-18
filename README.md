@@ -15,13 +15,6 @@
 - 📚 I’m currently expanding my knowledge in **Azure Administration and Cloud Security**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/christian-jones-18508224b/)**
 
-### Connect with me:
-
-<p align="left">
-  <a href="(https://www.linkedin.com/in/christian-jones-18508224b/)">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
 
 ### Languages and Tools:
 
