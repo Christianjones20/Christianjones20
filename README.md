@@ -18,7 +18,7 @@
 ### Connect with me:
 
 <p align="left">
-  <a href="YOUR-LINKEDIN-URL">
+  <a href="[YOUR-LINKEDIN-URL](https://www.linkedin.com/in/christian-jones-18508224b/)">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
