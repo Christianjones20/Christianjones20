@@ -13,12 +13,12 @@
 - 💬 Ask me about **Azure, AWS, GitHub Enterprise, Terraform, GitHub Actions, Cloud Security, IAM, Docker, and CI/CD**
 - 🛠️ I enjoy building **secure, automated, and scalable cloud infrastructure**
 - 📚 I’m currently expanding my knowledge in **Azure Administration and Cloud Security**
-- 📫 How to reach me: **[LinkedIn](YOUR-LINKEDIN-URL)**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/christian-jones-18508224b/)**
 
 ### Connect with me:
 
 <p align="left">
-  <a href="[YOUR-LINKEDIN-URL](https://www.linkedin.com/in/christian-jones-18508224b/)">
+  <a href="(https://www.linkedin.com/in/christian-jones-18508224b/)">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
